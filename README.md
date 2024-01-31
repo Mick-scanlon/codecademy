@@ -1,2 +1,2 @@
 # codecademy
-Problems completed from the Codecademy site
+Problems completed from the Codecademy Technical Interview prep Python course.
